@@ -1,4 +1,4 @@
-### Hi there 👋
+myn name is mikael### Hi there 👋
 
 <!--
 **mkaellopes/mkaellopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
